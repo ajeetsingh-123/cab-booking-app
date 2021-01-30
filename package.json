@@ -1,0 +1,22 @@
+{
+  "name": "cab_booking_app",
+  "version": "1.0.0",
+  "description": "Cab booking back-end APIs ",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  
+  "author": "",
+  "license": "ISC",
+ 
+
+  "dependencies": {
+    "body-parser": "^1.19.0",
+    "express": "^4.17.1",
+    "mongodb": "^3.6.3",
+    "mongoose": "^5.7.5"
+  },
+  "devDependencies": {}
+}

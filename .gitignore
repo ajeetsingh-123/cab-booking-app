@@ -1,0 +1,3 @@
+#Ignore the database config file for security reasons
+config/*
+node_modules/
